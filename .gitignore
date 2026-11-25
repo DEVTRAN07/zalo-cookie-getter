@@ -1,0 +1,6 @@
+/target
+account.json
+cookie.json
+qr.png
+*.log
+.DS_Store
