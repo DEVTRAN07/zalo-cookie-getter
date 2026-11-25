@@ -2148,7 +2148,7 @@ dependencies = [
 [[package]]
 name = "zalo-rs"
 version = "0.1.0"
-source = "git+https://github.com/DEVTRAN07/Zalo-rs?rev=d2ba2818#d2ba2818a2e370cea4cc709a96919c1ba17521af"
+source = "git+https://github.com/DEVTRAN07/Zalo-rs?rev=b8c9f787#b8c9f78740fb7af397dbb8957cb6ac10e8d4dcc1"
 dependencies = [
  "aes",
  "aes-gcm",
