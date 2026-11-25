@@ -14,7 +14,7 @@ name = "zalo_cookie_getter"
 path = "src/lib.rs"
 
 [dependencies]
-zalo-rs = { git = "https://github.com/DEVTRAN07/Zalo-rs", rev = "b8c9f787" }
+zalo-rs = { git = "https://github.com/DEVTRAN07/Zalo-rs", rev = "1f54a08e" }
 tokio = { version = "1", features = ["full"] }
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
